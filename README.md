@@ -7,6 +7,6 @@ I couldn't find a .usd model of a tinkerkit Braccio so I decided to make one.
 
 This used the CAD files from: https://github.com/ohlr/braccio_arduino_ros_rviz
 
-The model articulation hasn't been controlled and not tested in Isaac Lab 
+The model articulation hasn't been controlled but can be spawned into Isaac Lab 
 
 Feel free to use this model for your own projects :)
